@@ -1,0 +1,2 @@
+This array has a size of 100. Choose what you would like to change about the array based on the menu. 
+This program contains error handling that will not allow modifications to be made out of the array's bounds.
